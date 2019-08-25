@@ -1,4 +1,4 @@
-# A study on Cancer Classification using Logistic Regression.
+# A study on Cancer Classification using Support Vector Machine (SVM).
 This project is a part of the learning milestone of a Udemy course delivered by [SuperDataScience Team](https://www.udemy.com/machine-learning-classification/). 
 
 ### Author
